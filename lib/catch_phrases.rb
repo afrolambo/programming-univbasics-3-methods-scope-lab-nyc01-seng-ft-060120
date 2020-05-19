@@ -13,7 +13,7 @@ def link
   puts gift
 end
 
-def all_phrases(character)
-  
+def all_phrases(character = Mario)
+  puts catch_phrase 
 end
   

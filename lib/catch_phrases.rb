@@ -13,7 +13,7 @@ def link
   puts gift
 end
 
-def all_phrases(character = mario)
+def all_phrases(character)
   puts "#{character}" 
 end
   

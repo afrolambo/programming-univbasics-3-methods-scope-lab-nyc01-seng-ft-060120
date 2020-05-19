@@ -17,3 +17,6 @@ def all_phrases(character)
   puts "#{character}" 
 end
   
+all_phrases(mario)
+all_phrases(link)
+all_phrases(toadstool)

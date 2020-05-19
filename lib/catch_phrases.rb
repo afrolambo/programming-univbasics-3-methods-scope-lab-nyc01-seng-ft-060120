@@ -14,4 +14,5 @@ def link
   puts gift
 end
 
-def all_phrases
+def all_phrases(character)
+  

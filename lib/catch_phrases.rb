@@ -15,4 +15,5 @@ def link
 end
 
 def all_phrases(character)
+end
   

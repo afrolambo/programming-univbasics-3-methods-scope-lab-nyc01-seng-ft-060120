@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases(character = mario)
-  catch_phrase = "It's-a me, Mario!"
+  catch_phrase = "It's-a me, Mario!" 
   puts catch_phrase 
 end
   
